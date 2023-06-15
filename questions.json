@@ -1,0 +1,254 @@
+{
+
+    "questions_manutencao": 
+    [
+
+        {
+
+            "text": "Sobre o multímetro, assinale a alternativa CORRETA sobre a função do mesmo:",
+            "right_answer": "Verifica a tensão local da instalação.",
+            "other_alternatives":
+            [
+                "Serve para medir a temperatura.",
+                "Não realiza testes de continuidade.",
+                "Serve para limpar componentes do computador."
+            ]
+
+        },
+        {
+
+            "text": "Qual dessas opções não é um componente de um computador?",
+            "right_answer": "Among Us.",
+            "other_alternatives":
+            [
+                "Placa-mãe.",
+                "HD ou SSD.",
+                "Fonte de alimentação."
+            ]
+
+        },
+        {
+
+            "text": "Quando queremos utilizar o multímetro para verificar a voltagem de uma casa, qual posição devemos posicionar a chave seletora para que seja feito de forma correta a medição?",
+            "right_answer": "Corrente alternada ( V ~ ).",
+            "other_alternatives":
+            [
+                "Corrente contínua ( V - ).",
+                "Amperes ( A - ).",
+                "Ohms ( Ω )."
+            ]
+
+        },
+        {
+
+            "text": "Dentre as quatro opções de placas gráficas abaixo, qual possui a maior \"potência\"?",
+            "right_answer": "Nvidia RTX 4090.",
+            "other_alternatives":
+            [
+                "Nvidia RTX 3090.",
+                "RX6900 XT.",
+                "Intel HD Graphics."
+            ]
+
+        },
+        {
+
+            "text": "A corrente alternada (AC) é caracterizada por:",
+            "right_answer": "Elétrons que se movem em uma direção depois em outra rapidamente.",
+            "other_alternatives":
+            [
+                "Elétrons que se movem em uma única direção.",
+                "Elétrons que se movem em direções diferentes e depois estabilizam.",
+                "Elétrons que se movem em uma única direção e depois alternam."
+            ]
+
+        },
+        {
+
+            "text": "Quais dessas manutenções pode ser considerada uma manutenção preventiva?",
+            "right_answer": "Limpeza da parte interna e externo do computador.",
+            "other_alternatives":
+            [
+                "Atualização de Drivers.",
+                "Uso de placas de diagnóstico.",
+                "Identificação e procedimentos para solução.4"
+            ]
+
+        },
+        {
+
+            "text": "Dentre as alternativas abaixo, qual alternativa possui apenas exemplos de aplicativos que utilizam o Big Data?",
+            "right_answer": "Netflix, Twitter e Instagram.",
+            "other_alternatives":
+            [
+                "Netflix, Uber e Letras.",
+                "Facebook, Livros e Uber.",
+                "Whatsapp, Instagram e Pinturas."
+            ]
+
+        },
+        {
+
+            "text": "Falando de inteligência artificial, são somente tipos de IA:",
+            "right_answer": "Multi-Layer Perception(MLP), Convolutional Neural Networks(CNN), Recurrent Neural Networks(RCN).",
+            "other_alternatives":
+            [
+                "League of Legends(LOL) , Multi-Layer Perception(MLP), Portable Document Format(PDF).",
+                "Convolutional Neural Networks(CNN), My Little Poney(MLP), Non-Fungible Token(NFT).",
+                "Non-Fungible Token(NFT), Recurrent Neural Networks(RCN), Cable News Network(CNN).."
+            ]
+
+        },
+        {
+
+            "text": "Com qual tipo de memória é possível a leitura, gravação e regravação de dados, mas que, ao desligar o computador, esse tipo de memória perde todos esses dados.",
+            "right_answer": "RAM.",
+            "other_alternatives":
+            [
+                "EPROM.",
+                "ROM.",
+                "PROM."
+            ]
+
+        },
+        {
+
+            "text": "Qual desses itens abaixo é usado para manter a temperatura da CPU baixa e constante:",
+            "right_answer": "Pasta térmica.",
+            "other_alternatives":
+            [
+                "Pasta de dente.",
+                "Creme de cabelo.",
+                "Pasta isolante."
+            ]
+
+        },
+        {
+
+            "text": "Pra que serve a BIOS e onde se encontra?",
+            "right_answer": "Controla e configura os dispositivos periféricos; dentro da placa-mãe.",
+            "other_alternatives":
+            [
+                "Transfere energia para o computador; na fonte de alimentação.",
+                "Controla os dispositivos de saída; dentro da placa-mãe.",
+                "Serve pra configuar os dispositivos conectados; dentro da CPU."
+            ]
+
+        },
+        {
+
+            "text": "Como é denominado um PC que não depende apenas dos componentes do fabricante criador, mas também possibilita o uso de periféricos e Sistema Operacional de vários outros fabricantes?",
+            "right_answer": "Arquitetura Aberta.",
+            "other_alternatives":
+            [
+                "Arquitetura Fechada.",
+                "Arquitetura de Controle.",
+                "Arquitetura Regular."
+            ]
+
+        },
+        {
+
+            "text": "O que é hot swapping?",
+            "right_answer": "Tecnologia que permite a remoção e substituição de componentes em equipamentos sem precisar desligá-los.",
+            "other_alternatives":
+            [
+                "Um dispositivo que permite a comunicação do usuário com o computador.",
+                "Implica no processo de apagar totalmente o conteúdo do computador, reinstalando seu sistema operacional do zero.",
+                "É o componente responsável por dar mais agilidade e velocidade no funcionamento geral do sistema. "
+            ]
+
+        },
+        {
+
+            "text": "Qual desses dispositivos é um periférico de entrada de dados?",
+            "right_answer": "Teclado.",
+            "other_alternatives":
+            [
+                "Caixa de som.",
+                "Monitor.",
+                "Memória RAM."
+            ]
+
+        },
+        {
+
+            "text": "Existem vários tipos de fontes de alimentação, porém, os dois mais utilizados são:",
+            "right_answer": "AT e ATX.",
+            "other_alternatives":
+            [
+                "TA e ATX.",
+                "AT e TAX.",
+                "TA e TAX."
+            ]
+
+        }
+
+    ],
+    "questions_algoritmos":
+    [
+
+        {
+
+            "text": "Considere o trecho de código escrito em Python abaixo:\n\nnumero = 'θ'\nfor  rodada in range(1, 6):\n    numero + = '1' \n\nMarque a alternativa que corresponde ao conteúdo da variável “numero” ao final da execução do trecho de código: ",
+            "right_answer": "'011111'",
+            "other_alternatives": 
+            [
+                "'0111111'",
+                "'6'",
+                "'5'"
+            ]
+
+        },
+        {
+
+            "text": "Analise o trecho de programa abaixo, escrito em Python 3:\n\nD = {'cidades':['Rio de Janeiro', 'Salvador', 'Recife', 'Belo Horizonte']}\nprint([D['cidades'][-3]])\n\nAssinaie a opção que apresenta o resultado obtido após a execução. ",
+            "right_answer": "['Salvador']",
+            "other_alternatives": 
+            [
+                "['Belo Horizonte'] ",
+                "['Salvador', 'Recife', 'Belo Horizonte']",
+                "['Rio de Janeiro', 'Salvador', 'Recife']"
+            ]
+
+        },
+        {
+
+            "text": "Observe o programa abaixo, escrito em Python:\n\nfor i in range(9,15,3):\n    print(i)\n\nAo executarmos o programa apresentado acima, teremos quantos valores na saída?",
+            "right_answer": "2",
+            "other_alternatives": 
+            [
+                "3",
+                "15",
+                "9"
+            ]
+
+        },
+        {
+
+            "text": "Observe o código a seguir na linguagem Python:\n\ndef processar(n):\n    if n < 0:\n        print(“Valor incorreto”)\n    elif n == 1:\n        return 0\n    elif n == 2:\n        return 1\n    else:\n        return processar(n - 1) + processar(n - 2)\nprint(processar(3))\n\nA partir desses dados, é correto afirmar que a saída exibida em tela pelo código Python quando executado:",
+            "right_answer": "1",
+            "other_alternatives": 
+            [
+                "2",
+                "0",
+                "3"
+            ]
+
+        },
+        {
+
+            "text": "Considere o programa escrito em Python:\n\nd = 1\nfor p in range(2, 8, 3):\n    d = p * d\nprint(d)",
+            "right_answer": "10",
+            "other_alternatives": 
+            [
+                "16",
+                "2",
+                "48"
+            ]
+
+        }  
+
+    ]
+
+}
